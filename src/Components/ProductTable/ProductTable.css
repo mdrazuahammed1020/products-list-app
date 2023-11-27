@@ -38,11 +38,11 @@ tr{
     }
 
     .table-container th{
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .table-container td{
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 
@@ -64,6 +64,7 @@ tr{
 
     th, td{
         padding: 5px;
+        color: #000;
     }
 }
 
